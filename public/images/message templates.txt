@@ -1,0 +1,5 @@
+sender:
+
+"Happy Birthday"
+"Hope your day is as cool as you are"
+"Wish you the best"
